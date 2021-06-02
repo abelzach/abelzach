@@ -6,7 +6,7 @@
  ⚙️ I enjoy working on Arduino and Blockchain projects. <br/>
  🏆 I actively participate in hackathons and coding competitions. <br/> 
  💡 I would love to collaborate on cool project ideas. <br/> 
- 📫 How to reach me: Send a DM at [Abel](https://www.linkedin.com/in/abel-zachariah-0886571a5/).<br/>
+ 📫 How to reach me: Send a DM at [@Abel](https://www.linkedin.com/in/abel-zachariah-0886571a5/).<br/>
  👯 Still in college.<br/>
  
  ## I'm familiar with
@@ -25,5 +25,8 @@
  ![Ethereum](https://img.shields.io/badge/-Ethereum-333333?style=flat&logo=ethereum)
  
  <br/>
- 
+ <p align=center>
+    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=abelzach&show_icons=true&theme=gruvbox">
+    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abelzach&layout=compact&theme=gruvbox">
+</p>
  <br/>
