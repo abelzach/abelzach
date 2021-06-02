@@ -6,7 +6,8 @@
  ⚙️ I enjoy working on Arduino and Blockchain projects. <br/>
  🏆 I actively participate in hackathons and coding competitions. <br/> 
  💡 I would love to collaborate on cool project ideas. <br/> 
- 📫 How to reach me: Send a DM at [abel](https://www.linkedin.com/in/abel-zachariah-0886571a5/) <br/>
+ 📫 How to reach me: Send a DM at [abel](https://www.linkedin.com/in/abel-zachariah-0886571a5/) 
+ <br/>
  👯 Still in college.<br/>
  
  ## I'm familiar with
