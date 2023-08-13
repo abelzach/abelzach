@@ -9,7 +9,6 @@
  🏆 I actively participate in hackathons and coding competitions. <br/> 
  💡 I would love to collaborate on cool project ideas. <br/> 
  <br/>
- 👯 Still in college.<br/>
  
  <br/>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=abelzach&label=Profile%20views&color=0e75b6&style=flat" alt="abelzach" /> </p>
