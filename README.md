@@ -2,10 +2,16 @@
 <h2 align="center">Hey There!👋</h2>
 <h1 align="center">I'm Abel </h1>
 
+About me
+
+💼 Software Developer at IBM
+
+📫 How to reach me abelsimonz@gmail.com
+
 [![Linked In](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abel-simon-zachariah-0886571a5/)
 
 <br/>
- 👨‍💻 I enjoy working on Arduino and Blockchain projects. <br/>
+ 👨‍💻 I enjoy working on Arduino, Blockchain projects, web apps, chrome extensions, npm packages and vscode extensions. <br/>
  🏆 I actively participate in hackathons and coding competitions. <br/> 
  💡 I would love to collaborate on cool project ideas. <br/> 
  <br/>
